@@ -1,6 +1,6 @@
 Olá!! 🙂
 
-- 🚂🚚 🚢 Atualmente estou trabalhando no Porto de Santos/So-Brasil;
+- 🚂🚚 🚢 Atualmente estou trabalhando no Porto de Santos/Sp-Brasil;
 - 📚 ✍️ Atualmente estou aprendendo Bootcamp de JavaScript, HTML e CSS;
 -  🤝 ➕Eu quero unir minha experiencia de Logistica e Comercio Exterior ao Desenvolvimento de Programas;
 
