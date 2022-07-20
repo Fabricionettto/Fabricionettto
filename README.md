@@ -26,6 +26,4 @@ Olá!! 🙂
 
 
  
-  ![Snake animation](https://github.com/Fabricionettto/Fabricionettto/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
