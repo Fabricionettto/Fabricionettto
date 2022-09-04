@@ -1,7 +1,7 @@
 Olá!! 🙂
 
 - 🚂🚚 🚢 Atualmente estou trabalhando no Porto de Santos/Sp-Brasil;
-- 📚 🏫 Estou cursando Pós-Graduação de Ciencia de Dados e Bootcamp de JavaScript, HTML e CSS;
+- 📚 🏫 Estou cursando Pós-Graduação de Ciencia de Dados e Bootcamp de JavaScript, HTML, CSS e Power Bi;
 - 🔖 🖥️ Tenho alguns projetos no meu Github, ainda estou estudando, então com o tempo vou melhorando;
 - 🤝 ➕ Eu quero unir minha experiencia de Logistica e Comercio Exterior ao Desenvolvimento de Programas;
 - 😊 🙌 Se puder me ajudar nos estudos, será bem vindo... Se eu também puder ajudar, estou a disposição;
