@@ -1,5 +1,5 @@
 # 💫 About Me:
-Atualmente estou trabalhando no Porto de Santos/Sp-Brasil;<br>Estou cursando Pós-Graduação de Ciência de Dados, Bootcamp de Ciência de Dados, HTML, CSS e Power BI;<br>Tenho alguns projetos no meu Github, ainda estou estudando, então com o tempo vou aprender;<br>Eu quero unir minha experiência de Logística e Comércio Exterior ao Desenvolvimento de Programas;<br>Se puder me ajudar nos estudos, estarei bem vindo... Se eu também puder ajudar, estou a disposição;<br>
+Atualmente estou trabalhando no Porto de Santos/Sp-Brasil;<br>Estou cursando Pós-Graduação de Ciência de Dados, Bootcamp de Ciência de Dados, HTML, CSS e Power BI;<br>Tenho alguns projetos no meu Github, ainda estou estudando, então com o tempo vou aprender;<br>Eu quero unir minha experiência de Logística e Comércio Exterior ao Desenvolvimento de Programas;<br>Se puder me ajudar nos estudos, obrigado... Se eu também puder ajudar, estou a disposição!!;<br>
 
 
 ## 🌐 Socials:
