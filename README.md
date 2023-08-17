@@ -1,5 +1,17 @@
 # 💫 About Me:
-Atualmente estou trabalhando no Porto de Santos/Sp-Brasil;<br>Estou cursando Pós-Graduação de Ciência de Dados, Bootcamp de Ciência de Dados, HTML, CSS e Power BI;<br>Tenho alguns projetos no meu Github, ainda estou estudando, então com o tempo vou aprender;<br>Eu quero unir minha experiência de Logística e Comércio Exterior na analise de dados e Desenvolvimento de Programas voltados a dados;<br>Gosto muito de analise de dados então, se puder me ajudar nos estudos, obrigado... Se eu também puder ajudar, estou a disposição!!<br>Tenha um otimo dia !!!
+Oi pessoal!
+
+Atualmente, estou trabalhando no Porto de Santos, SP, Brasil, com uma jornada de 28 anos em Comércio Exterior. Minha especialidade é operações, análise de dados e tomada de decisões - essenciais na minha carreira.
+
+Sou graduado em Comércio Exterior e tenho pós-graduação em Ciência de Dados. Recentemente, iniciei o Bootcamp de Ciência de Dados do Santander na DIO, e também já cursei HTML e CSS. No momento, estou focado no Power BI, ferramenta chave no meu trabalho.
+
+Estou sempre querendo aprender coisas novas, tenho projetos no meu GitHub e continuo aprendendo e me desenvolvendo. Meu objetivo é misturar minha experiência em Logística e Comércio Exterior com análise de dados e programação para criar soluções que aproximem a TI com operações, comercial, planejamento, etc...
+
+Gosto muito análise de dados e adoraria uma mãozinha para aprender ainda mais. Se precisarem da minha ajuda, estou à disposição!
+
+Obrigado pela atenção e tenham um dia incrível!
+
+"O sucesso nasce do aprendizado constante."
 
 
 ## 🌐 Socials:
