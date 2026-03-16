@@ -36,6 +36,11 @@ Tenho uma base forte em operação no Comércio Exterior e estou evoluindo cada 
 ## 📊 Dashboard Preview
 
 ![NBA Dashboard](./nba-dashboard.png)
+<p align="center">
+  <a href="./NBA_Sniper_2026-03-16.html">
+    <img src="https://img.shields.io/badge/View%20Dashboard-00c896?style=for-the-badge&logo=chartdotjs&logoColor=black"/>
+  </a>
+</p>
 
 Sistema de análise de jogadores com geração automática de dashboard e insights baseados em dados reais.
 → baseado em dados, tendências e performance recente
