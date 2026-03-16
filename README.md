@@ -38,6 +38,7 @@ Tenho uma base forte em operação no Comércio Exterior e estou evoluindo cada 
 ![NBA Dashboard](./nba-dashboard.png)
 <p align="center">
 <a href="https://github.com/Fabricionettto/Fabricionettto/blob/main/NBA_Sniper_2026-03-16.html">
+🚀 Live Demo: https://fabricionettto.github.io/Fabricionettto/
     
 Sistema de análise de jogadores com geração automática de dashboard e insights baseados em dados reais.
 → baseado em dados, tendências e performance recente
