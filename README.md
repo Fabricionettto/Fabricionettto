@@ -33,7 +33,11 @@ Tenho uma base forte em operação no Comércio Exterior e estou evoluindo cada 
 
 ### 🏀 NBA Analytics (visível)
 
-Sistema completo de análise de jogadores e apostas com geração de dashboard automático
+## 📊 Dashboard Preview
+
+![NBA Dashboard](./nba-dashboard.png)
+
+Sistema de análise de jogadores com geração automática de dashboard e insights baseados em dados reais.
 → baseado em dados, tendências e performance recente
 
 📄 Código: 
