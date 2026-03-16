@@ -37,17 +37,17 @@ Tenho uma base forte em operação no Comércio Exterior e estou evoluindo cada 
 
 ![NBA Dashboard](./nba-dashboard.png)
 <p align="center">
-<a href="https://github.com/Fabricionettto/Fabricionettto/blob/main/NBA_Sniper_2026-03-16.html">
+  <a href="https://fabricionettto.github.io/Fabricionettto/" target="_blank">
+    <img src="https://img.shields.io/badge/Open%20Dashboard-Live-success?style=for-the-badge"/>
+  </a>
+</p>
+
 🚀 Live Demo: https://fabricionettto.github.io/Fabricionettto/
     
 Sistema de análise de jogadores com geração automática de dashboard e insights baseados em dados reais.
 → baseado em dados, tendências e performance recente
 
-📄 Código: 
-📊 Dashboard: 
-
-📄 Código: (link do .py depois você coloca)
-📊 Dashboard: Download disponível acima
+📊 Dashboard: disponível via Live Demo acima
 
 ---
 
