@@ -1,5 +1,8 @@
 ## 👋 About Me
 
+### 🚢 Capacity Planner | 📊 Data Analytics | 🐍 Python Automation  
+Turning shipping operations into data-driven decisions
+
 Fala pessoal,
 
 Hoje trabalho com **Capacity Planning e operações marítimas**, atuando diretamente com **bookings, alocação de carga, navios e análise de TEUs**.
