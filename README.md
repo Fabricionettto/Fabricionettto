@@ -51,6 +51,34 @@ Sistema de análise de jogadores com geração automática de dashboard e insigh
 
 ---
 
+### 🎯 Lotofácil PRO (Data Driven)
+
+## 📊 Dashboard Preview
+
+<p align="center">
+  <a href="https://fabricionettto.github.io/Lotofacil-data-driven/" target="_blank">
+    <img src="https://img.shields.io/badge/Open%20Dashboard-Live-success?style=for-the-badge"/>
+  </a>
+</p>
+
+🚀 Live Demo: https://fabricionettto.github.io/Lotofacil-data-driven/
+
+Sistema de análise de jogos da Lotofácil com geração automática de combinações baseadas em estatística.
+
+→ leitura de frequência dos números  
+→ identificação de padrões  
+→ geração de jogos com base em lógica + variação controlada  
+
+📊 Dashboard interativo com:
+
+- números mais frequentes (quentes)
+- números menos frequentes (frios)
+- comparação entre estratégias
+- botão **"Gerar Jogo"** em tempo real
+
+---
+
+
 ### 🚢 Shipping & Vessel Planning (em desenvolvimento)
 
 Automação de processos de programação de navios, integração de dados e geração de relatórios operacionais.
