@@ -68,7 +68,7 @@ Sistema de análise de jogadores com geração automática de dashboard e insigh
 ![Lotofacil Dashboard](./lotofacil-dashboard.png)
 
 <p align="center">
-  <a href="https://fabricionettto.github.io/lotofacil-data-driven/" target="_blank">
+  <a href="https://fabricionettto.github.io/Lotofacil-data-driven/" target="_blank">
     <img src="https://img.shields.io/badge/Open%20Dashboard-Live-success?style=for-the-badge"/>
   </a>
 </p>
