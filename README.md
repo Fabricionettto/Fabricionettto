@@ -27,6 +27,16 @@ Tenho uma base forte em operação no Comércio Exterior e estou evoluindo cada 
 * ⚙️ Scripts para reduzir trabalho manual
 * 🚀 Projetos com foco em problema real de operação
 
+## 📈 GitHub Activity
+
+🚀 Projetos ativos e evolução constante
+
+- 🔥 Automação com Python aplicada em logística
+- 📊 Dashboards interativos (NBA & Lotofácil)
+- 🚢 Projetos reais de shipping e capacity planning
+
+💡 Foco: transformar operação em decisão baseada em dados
+
 ---
 
 ## 🚀 Projetos recentes
@@ -129,16 +139,24 @@ Se você trabalha com:
 
 ---
 
-## 📈 Current Focus
+## 📈 Tech Stack & Focus
 
-* Automating shipping reports with Python
-* Building capacity planning dashboards
-* Improving operational decision-making
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=22c55e&size=22&center=true&vCenter=true&width=600&lines=Python+Automation;Power+BI+Analytics;Shipping+Data+Driven;Capacity+Planning"/>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Automation-Antigravity-blue?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=22c55e&size=25&center=true&vCenter=true&width=600&lines=Python+Automation;Data+Driven+Logistics;Capacity+Planning+Analytics;Turning+Operations+into+Decisions"/>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Fabricionettto\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Fabricionettto\&theme=dark\&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabricionettto\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false\&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Fabricionettto&theme=tokyonight&hide_border=true)
