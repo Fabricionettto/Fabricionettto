@@ -53,7 +53,7 @@ Sistema de análise de jogadores com geração automática de dashboard e insigh
 
 ### 🎯 Lotofácil PRO (Data Driven)
 
-## 📊 Dashboard Preview
+## 📊 Dashboard Preview 
 
 <p align="center">
   <a href="https://fabricionettto.github.io/Lotofacil-data-driven/" target="_blank">
