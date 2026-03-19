@@ -49,7 +49,7 @@ Tenho uma base sólida em Comércio Exterior e venho evoluindo cada vez mais par
 
 ## 🚀 Projetos recentes
 
-### 🚢 Terminal Granel — S&OP Descarga (REAL OPERATION)
+### 🚢 Terminal Granel — S&OP Descarga
 
 ## 📊 Dashboard Preview
 
