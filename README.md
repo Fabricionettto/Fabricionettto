@@ -1,13 +1,19 @@
-## 👋 About Me
+🚢 Capacity Planning | Data Analytics | Operational Efficiency  
 
-### 🚢 Capacity Planner | 📊 Data Analytics | 🐍 Python Automation    
-Turning shipping operations into data-driven decisions
+Turning real shipping operations into data-driven decisions.
+
+---
+
+## 👋 About Me
 
 Fala pessoal,
 
-Hoje trabalho com **Capacity Planning e operações marítimas**, atuando diretamente com **bookings, alocação de carga, navios e análise de TEUs**.
+Hoje atuo com **Capacity Planning e operações marítimas**, trabalhando direto com **bookings, alocação de carga, programação de navios e análise de TEUs**.
 
-Tenho uma base forte em operação no Comércio Exterior e estou evoluindo cada vez mais para **dados e automação aplicada no dia a dia**.
+Na prática, meu dia a dia é resolver problema real de operação:  
+navio cheio, falta de espaço, ajuste de booking, pressão de prazo e decisão rápida.
+
+Tenho uma base sólida em Comércio Exterior e venho evoluindo cada vez mais para **dados e automação aplicada à operação**, usando Python para transformar volume de informação em decisão.
 
 ---
 
@@ -27,13 +33,15 @@ Tenho uma base forte em operação no Comércio Exterior e estou evoluindo cada 
 * ⚙️ Scripts para reduzir trabalho manual
 * 🚀 Projetos com foco em problema real de operação
 
+---
+
 ## 📈 GitHub Activity
 
 🚀 Projetos ativos e evolução constante
 
 - 🔥 Automação com Python aplicada em logística
-- 📊 Dashboards interativos (NBA & Lotofácil)
 - 🚢 Projetos reais de shipping e capacity planning
+- 📊 Dashboards interativos (NBA & Lotofácil)
 
 💡 Foco: transformar operação em decisão baseada em dados
 
@@ -41,11 +49,49 @@ Tenho uma base forte em operação no Comércio Exterior e estou evoluindo cada 
 
 ## 🚀 Projetos recentes
 
-### 🏀 NBA Analytics (visível)
+### 🚢 Terminal Granel — S&OP Descarga (REAL OPERATION)
+
+## 📊 Dashboard Preview
+
+![Terminal Dashboard](./terminal-dashboard.png)
+
+<p align="center">
+  <a href="https://fabricionettto.github.io/terminal-granel-sop/" target="_blank">
+    <img src="https://img.shields.io/badge/Open%20Terminal%20Dashboard-Live-success?style=for-the-badge"/>
+  </a>
+</p>
+
+🚀 Live Demo: https://fabricionettto.github.io/terminal-granel-sop/
+
+Análise operacional baseada em dados reais de descarga ferroviária.
+
+→ identificação de perdas de eficiência  
+→ análise de variação de ritmo (VR)  
+→ cruzamento por turno, equipe e produto  
+
+📊 Principais insights:
+
+- 24% da operação com perda de ritmo  
+- Turno 01–07h com maior impacto  
+- Restrição de equipamento como principal causa  
+- Padrão recorrente entre turno + motivo (problema estrutural)
+
+🧠 Aplicação prática:
+
+- ajuste de operação por turno  
+- priorização de manutenção  
+- melhor alocação de equipe  
+
+📌 Projeto baseado em cenário real de operação (dados adaptados)
+
+---
+
+### 🏀 NBA Analytics
 
 ## 📊 Dashboard Preview
 
 ![NBA Dashboard](./nba-dashboard.png)
+
 <p align="center">
   <a href="https://fabricionettto.github.io/Fabricionettto/" target="_blank">
     <img src="https://img.shields.io/badge/Open%20Dashboard-Live-success?style=for-the-badge"/>
@@ -53,11 +99,8 @@ Tenho uma base forte em operação no Comércio Exterior e estou evoluindo cada 
 </p>
 
 🚀 Live Demo: https://fabricionettto.github.io/Fabricionettto/
-    
-Sistema de análise de jogadores com geração automática de dashboard e insights baseados em dados reais.
-→ baseado em dados, tendências e performance recente
 
-📊 Dashboard: disponível via Live Demo acima
+Sistema de análise de jogadores com geração automática de dashboard e insights baseados em dados.
 
 ---
 
@@ -78,23 +121,18 @@ Sistema de análise de jogadores com geração automática de dashboard e insigh
 → leitura de frequência dos números  
 → identificação de padrões  
 
-📊 Dashboard interativo com:
-
-- números mais frequentes (quentes)
-- números menos frequentes (frios)
-- comparação entre estratégias
-
 ---
 
+### 🚢 Shipping & Capacity Planning (em desenvolvimento)
 
-### 🚢 Shipping & Vessel Planning (em desenvolvimento)
+Projetos voltados para:
 
-Automação de processos de programação de navios, integração de dados e geração de relatórios operacionais.
+- análise de bookings (TEU / weight)
+- capacity planning de navios
+- identificação de gaps operacionais
+- automação de decisões
 
-⚠️ Projetos reais de operação — dados sensíveis não publicados
-→ foco em automação, lógica de negócio e eficiência operacional
-
-📄 Script base: 
+⚠️ Dados reais não publicados por confidencialidade
 
 ---
 
@@ -104,10 +142,10 @@ Conectar **operação com tecnologia**.
 
 Transformar problemas reais como:
 
-* navio cheio
-* falta de espaço
-* ajuste de booking
-* gestão de reefers
+* navio cheio  
+* falta de espaço  
+* ajuste de booking  
+* gestão de reefers  
 
 em **soluções automatizadas e inteligentes**.
 
@@ -117,10 +155,10 @@ em **soluções automatizadas e inteligentes**.
 
 Se você trabalha com:
 
-* logística
-* shipping
-* dados
-* automação
+* logística  
+* shipping  
+* dados  
+* automação  
 
 …ou quer trocar ideia sobre operação + tecnologia, me chama 👍
 
@@ -128,34 +166,18 @@ Se você trabalha com:
 
 ## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
-![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Plotly](https://img.shields.io/badge/plotly-3F4F75?style=for-the-badge\&logo=plotly\&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-02303A?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Plotly](https://img.shields.io/badge/plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-02303A?style=for-the-badge&logo=mysql&logoColor=white)
 
 ![Antigravity](https://img.shields.io/badge/antigravity-automation-blue?style=for-the-badge)
 
 ---
 
-## 📈 Tech Stack & Focus
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=22c55e&size=22&center=true&vCenter=true&width=600&lines=Python+Automation;Power+BI+Analytics;Shipping+Data+Driven;Capacity+Planning"/>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Automation-Antigravity-blue?style=for-the-badge"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=22c55e&size=25&center=true&vCenter=true&width=600&lines=Python+Automation;Data+Driven+Logistics;Capacity+Planning+Analytics;Turning+Operations+into+Decisions"/>
-</p>
-
----
+## 📈 Tech Stack & Focus <p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?color=22c55e&size=22&center=true&vCenter=true&width=600&lines=Python+Automation;Power+BI+Analytics;Shipping+Data+Driven;Capacity+Planning"/> </p> <p align="center"> <img src="https://skillicons.dev/icons?i=python" /> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/Automation-Antigravity-blue?style=for-the-badge"/> </p> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?color=22c55e&size=25&center=true&vCenter=true&width=600&lines=Python+Automation;Data+Driven+Logistics;Capacity+Planning+Analytics;Turning+Operations+into+Decisions"/> </p>
 
 ## 📊 GitHub Stats
 
