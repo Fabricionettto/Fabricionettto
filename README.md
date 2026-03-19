@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-### 🚢 Capacity Planner | 📊 Data Analytics | 🐍 Python Automation   
+### 🚢 Capacity Planner | 📊 Data Analytics | 🐍 Python Automation    
 Turning shipping operations into data-driven decisions
 
 Fala pessoal,
