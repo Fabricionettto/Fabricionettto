@@ -63,7 +63,7 @@ Tenho uma base sólida em Comércio Exterior e venho evoluindo cada vez mais par
 
 🚀 Live Demo: https://fabricionettto.github.io/terminal-granel-sop/
 
-Análise operacional baseada em dados reais de descarga ferroviária.
+Análise operacional baseada em dados ficticios de descarga ferroviária.
 
 → identificação de perdas de eficiência  
 → análise de variação de ritmo (VR)  
@@ -82,7 +82,7 @@ Análise operacional baseada em dados reais de descarga ferroviária.
 - priorização de manutenção  
 - melhor alocação de equipe  
 
-📌 Projeto baseado em cenário real de operação (dados adaptados)
+📌 Projeto baseado em cenário de operação.
 
 ---
 
