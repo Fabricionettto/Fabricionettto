@@ -49,6 +49,31 @@ Tenho uma base sólida em Comércio Exterior e venho evoluindo cada vez mais par
 
 ## 🚀 Projetos recentes
 
+### ⚽ Football Betting Strategy — Match Outcome Analysis
+
+Análise de jogos de futebol com foco em identificar **value bets** usando dados e automação.
+
+- 📊 Modelagem de probabilidade e cálculo de edge
+- 🧠 Identificação de odds desajustadas (value betting)
+- ⚙️ Automação em Python para análise de jogos
+- 📈 Dashboard interativo para visualização dos cenários
+
+👉 [Ver projeto no GitHub](https://github.com/Fabricionettto/match-outcome-analysis)
+
+👉 [Abrir dashboard (demo)](https://fabricionettto.github.io/match-outcome-analysis/)
+
+<br>
+
+<img src="https://raw.githubusercontent.com/Fabricionettto/match-outcome-analysis/main/Jogos.png" width="900"/>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/Fabricionettto/match-outcome-analysis/main/Analise_especifica.png" width="400"/>
+
+<br>
+
+
+
 ### 🚢 Terminal Granel — S&OP Descarga
 
 ## 📊 Dashboard Preview
