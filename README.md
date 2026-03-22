@@ -207,3 +207,5 @@ Se você trabalha com:
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Fabricionettto&theme=tokyonight&hide_border=true)
+
+datascienceportfol.io/fabricionettto
